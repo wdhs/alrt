@@ -96,7 +96,7 @@
     "@alrt/ui": "0.1.0",
     "@ant-design/colors": "6.0.0",
     "@module-federation/bridge-react": "0.19.1",
-    "@module-federation/enhanced": "0.19.1",
+    "@module-federation/enhanced": "0.21.2",
     "@pvm-ui/pvm-core": "1.14.2",
     "@pvm-ui/pvm-ui-components": "2.2.1",
     "@sds-eng/base": "1.6.0",
